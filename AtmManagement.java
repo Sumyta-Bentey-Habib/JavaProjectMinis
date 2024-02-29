@@ -1,3 +1,6 @@
+/* This is a static type  and works properly in the given account and corresepondent password . There is total 2 accounts and 
+    passwords are mentioned. */
+
 import java.util.Scanner;
 public class AtmManagement{
     public static void main(String[] args) {
